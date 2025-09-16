@@ -1,0 +1,44 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Example code and temporary files
+*.Rproj
+*.tmp
+*.swp
+
+# Output and log files
+*.log
+*.out
+*.aux
+
+# Compiled objects
+*.o
+*.so
+*.dll
+
+# Reports
+*.pdf
+*.docx
+*.pptx
+
+# Data files (optional — comment out if you want data tracked)
+*.csv
+*.tsv
+*.sav
+*.dta
+*.RData
+*.rds
+
+# OS-specific files
+.DS_Store
+Thumbs.db
