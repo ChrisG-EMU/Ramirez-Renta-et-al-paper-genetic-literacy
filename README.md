@@ -1,4 +1,5 @@
 # Ramirez-Renta-et-al-paper-genetic-literacy
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This repository contains materials for the Ramirez-Renta et al. paper on genetic literacy.
 
