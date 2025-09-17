@@ -33,6 +33,7 @@
 
 # Data files (optional — comment out if you want data tracked)
 *.csv
+!statistics/*.csv
 *.tsv
 *.sav
 *.dta
